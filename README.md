@@ -1,6 +1,8 @@
 # node-worker-threads
 
-## Base
+Different approaches to use worker threads in Node.js.
+
+## Base - no worker threads
 
 ```bash
 node 1-base/main.js
